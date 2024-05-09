@@ -38,7 +38,7 @@ Also, there are some configuration options that can be set through environment v
 
 #### Semantic Query
 
-You can use OpenAI API or Cloudflare AI Worker to run Semantic Query
+You can use OpenAI  API or Cloudflare AI Worker to run Semantic Query
 
 OpenAI API:
 
